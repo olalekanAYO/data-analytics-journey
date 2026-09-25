@@ -7,3 +7,6 @@ Project Progress
 Page 1 — Executive Overview: Completed
 
 Currently progressing through the remaining pages and analysis requirements.
+### Dashboard Preview
+
+![Page 1 - Executive Overview](HealthDashboard.png)
