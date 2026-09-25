@@ -1,39 +1,9 @@
-# Health Organisation Executive Dashboard
+Healthcare Performance & Patient Analytics Dashboard
 
-## Project Overview
+A Power BI project analyzing healthcare performance, patient activity, hospital operations, financial performance, and patient experience across different states in Nigeria.
 
-This project involves creating an executive dashboard for a health organisation using Power BI.
+Project Progress
 
-The dashboard provides an overview of patient activity, financial performance, waiting time, patient satisfaction, and patient outcomes.
+Page 1 — Executive Overview: Completed
 
-## Dashboard Requirements
-
-### KPI Cards
-- Total Patients
-- Total Visits
-- Total Revenue
-- Total Cost
-- Total Profit
-- Average Revenue per Patient
-- Average Waiting Time
-- Average Satisfaction Score
-
-### Visualizations
-- Monthly Patient Visits
-- Revenue by State
-- Patients by Department
-- Revenue vs Target
-- Patient Outcome Distribution
-
-### Slicers
-- Date
-- State
-- Branch
-- Department
-- Gender
-
-## Tools Used
-
-- Microsoft Excel
-- Microsoft Power BI
-- DAX
+Currently progressing through the remaining pages and analysis requirements.
