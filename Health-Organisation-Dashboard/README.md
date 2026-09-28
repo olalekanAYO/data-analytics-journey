@@ -42,3 +42,32 @@ diagnoses, patient volume, and patient outcomes.
 ### Dashboard Preview
 
 ![Patient Analysis Dashboard](Patients_Analysis2.png)
+## 📅 Day 3 — Hospital Operations
+
+Today, I completed **Page 3 — Hospital Operations** of my Healthcare Performance & Patient Analytics Dashboard using Power BI.
+
+### 📊 What I Analyzed
+- Visits by Department
+- Average Waiting Time
+- Waiting Time by Department
+- Patient Satisfaction by Department
+- Patient Outcomes
+- Branch Performance
+- Monthly Patient Volume
+
+### 🔍 Key Insights
+- Patient volume varies across departments and branches.
+- Waiting times differ across departments.
+- Patient satisfaction varies across departments.
+- Recovered patients were the most frequently occurring outcome.
+- There is no clear relationship between waiting time and patient satisfaction.
+
+### 🛠️ Tools Used
+- Power BI
+- DAX
+- Interactive Visualizations
+- Slicers
+
+### 📸 Dashboard
+
+![Hospital Operations Dashboard](Hospital_Operation3.png)
