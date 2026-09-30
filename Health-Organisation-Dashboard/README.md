@@ -71,3 +71,38 @@ Today, I completed **Page 3 — Hospital Operations** of my Healthcare Performan
 ### 📸 Dashboard
 
 ![Hospital Operations Dashboard](Hospital_Operation3.png)
+## Day 4 — Financial Performance
+
+Today, I worked on the Financial Performance section of my Healthcare Performance & Patient Analytics Dashboard using Power BI.
+
+### What I Analyzed
+- Total Revenue
+- Total Cost
+- Total Profit
+- Profit Margin
+- Revenue by State
+- Revenue by Department
+- Revenue by Service
+- Monthly Revenue
+- Revenue vs Target
+- Revenue Variance and Achievement
+
+### Key Insights
+- River(s) recorded the highest revenue among the states.
+- Paediatric recorded the highest departmental profit.
+- Paediatric Care generated the highest service revenue.
+- Maternity Care recorded the lowest profit.
+- Several states were below their revenue targets.
+- Some services generated high revenue but relatively low profit.
+
+### Power BI Skills Applied
+- DAX Measures
+- KPI Cards
+- Bar/Column Charts
+- Line Charts
+- Target and Variance Analysis
+- Slicers and Report Interactivity
+
+### Dashboard Screenshot
+
+![Financial Performance Dashboard](Financial%20performance4.png)
