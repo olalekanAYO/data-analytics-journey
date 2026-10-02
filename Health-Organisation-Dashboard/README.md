@@ -106,3 +106,39 @@ Today, I worked on the Financial Performance section of my Healthcare Performanc
 ### Dashboard Screenshot
 
 ![Financial Performance Dashboard](Financial%20performance4.png)
+# Day 5 – Patient Experience
+
+## 📊 Healthcare Performance & Patient Analytics Dashboard
+
+Today, I focused on building the **Patient Experience** page of my Power BI healthcare analytics dashboard.
+
+### 🎯 Focus Areas
+- Average Satisfaction Score
+- Satisfaction by Department
+- Satisfaction by Branch
+- Satisfaction vs Waiting Time
+- Patient Outcomes
+- Satisfaction Distribution
+
+### 🔍 Key Insights
+- Satisfaction scores were compared across departments and branches to identify differences in patient experience.
+- The relationship between waiting time and patient satisfaction was analyzed.
+- Patient outcomes were reviewed to understand the overall experience and results of patient visits.
+- The analysis helps identify areas where patient experience may require further attention.
+
+### 🛠️ Power BI Skills Applied
+- Data visualization
+- DAX measures
+- Slicers and filtering
+- Interactive charts
+- Scatter charts
+- Bar charts
+- Conditional formatting
+- Dashboard design
+
+### 📸 Dashboard Preview
+
+![Patient Experience Dashboard](Patients_Experience5.png)
+
+### 🚀 Project Progress
+This is **Day 5** of my Healthcare Performance & Patient Analytics Dashboard project, continuing my journey in Power BI and data analytics.
